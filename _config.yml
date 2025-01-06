@@ -103,7 +103,7 @@ share-links-active:
 url-pretty: "MyWebsite.com"
 
 # Url setting
-url: "https://devlopanda.github.io" # the base hostname & protocol for your site e.g. "https://beautifuljekyll.com/"
+url: "https://developanda.github.io" # the base hostname & protocol for your site e.g. "https://beautifuljekyll.com/"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 
 # Add the website title to the title of every page
