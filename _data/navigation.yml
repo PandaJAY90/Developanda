@@ -1,0 +1,17 @@
+# Site Author
+author:
+  name             : "Jay"
+  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  bio              : "발전하고 있는 데이터 분석가"
+  location         : "South Korea"
+
+# main links
+main:
+  - title: "분석"
+    url: https://developanda.github.io/developanda/analysis/
+  - title: "DataBase"
+    url: https://developanda.github.io/developanda/DB/
+  - title: "개발"
+    url: https://developanda.github.io/developanda/develop/
+  - title: "기타"
+    url: https://developanda.github.io/developanda/etc/
