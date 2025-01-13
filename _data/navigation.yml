@@ -13,5 +13,7 @@ main:
     url: https://developanda.github.io/developanda/DB/
   - title: "개발"
     url: https://developanda.github.io/developanda/develop/
+      - title: "백준 문제 풀이"
+        url: https://developanda.github.io/developanda/develop/BAEKJOON/
   - title: "기타"
     url: https://developanda.github.io/developanda/etc/
