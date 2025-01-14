@@ -8,10 +8,10 @@ author:
 # main links
 main:
   - title: "분석"
-    url: https://developanda.github.io/analysis/
+    url: /analysis/
   - title: "DataBase"
-    url: https://developanda.github.io/DB/
+    url: /DB/
   - title: "개발"
-    url: https://developanda.github.io/develop/
+    url: /develop/
   - title: "기타"
-    url: https://developanda.github.io/etc/
+    url: /etc/
