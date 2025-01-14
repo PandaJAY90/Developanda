@@ -1,7 +1,7 @@
 ---
 title: "개발 관련된 내용의 글"
 layout: category
-permalink: /categories/개발/
+permalink: /develop/
 author_profile: true
 toc_sticky: true
 toc_ads: true
